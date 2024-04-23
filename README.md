@@ -1,2 +1,2 @@
 This is my first personal website!
-[点击这里](test.html)
+[点击这里](test.md)
